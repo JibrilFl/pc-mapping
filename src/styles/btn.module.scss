@@ -1,0 +1,45 @@
+.btn {
+	background: inherit;
+	position: relative;
+	width: 30px;
+	height: 30px;
+	border: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	border-radius: 100%;
+
+	&_imgBlack,
+	&_imgLight	{
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		border-radius: 100%;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+
+	&_imgBlack {
+		opacity: 1;
+	}
+
+	&_imgLight {
+		opacity: 0;
+	}
+
+	&:hover .btn_imgBlack {
+		opacity: 0;
+	}
+
+	&:hover .btn_imgLight {
+		opacity: 1;
+	}
+
+	&:hover .btn_imgBlack,
+	&:hover .btn_imgLight {
+		transition: opacity .5s;
+	}
+}

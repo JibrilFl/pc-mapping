@@ -1,0 +1,22 @@
+<svg width="35.000000" height="35.000000" viewBox="0 0 35 35" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip43_169">
+			<rect id="edit_fsvqeg5c542n" width="35.000000" height="35.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip43_169)">
+		<path id="polygon" d="M2.16 2.16L7.64 2.16L7.64 0L0 0L0 7.64L2.16 7.64L2.16 2.16Z" fill="#6D6D6D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="polygon" d="M27.35 0L27.35 2.16L32.83 2.16L32.83 7.64L34.99 7.64L34.99 0L27.35 0Z" fill="#6D6D6D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<rect id="rect" x="14.228027" width="6.567011" height="2.164948" fill="#6D6D6D" fill-opacity="1.000000"/>
+		<rect id="rect" x="14.228027" y="32.834961" width="6.567011" height="2.164948" fill="#6D6D6D" fill-opacity="1.000000"/>
+		<path id="polygon" d="M32.83 32.83L27.35 32.83L27.35 35L34.99 35L34.99 27.35L32.83 27.35L32.83 32.83Z" fill="#6D6D6D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<rect id="rect" x="32.835083" y="14.216309" width="2.164948" height="6.567010" fill="#6D6D6D" fill-opacity="1.000000"/>
+		<rect id="rect" y="14.216309" width="2.164948" height="6.567010" fill="#6D6D6D" fill-opacity="1.000000"/>
+		<path id="path" d="M19.8 19.52L15.47 15.19L18.26 12.4L22.59 16.73L19.8 19.52Z" fill="#6D6D6D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path" d="M1.8 33.19L6.74 31.75L3.24 28.25L1.8 33.19Z" fill="#6D6D6D" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path" d="M4.35 26.3L13.93 16.72L18.27 21.06L8.69 30.64L4.35 26.3Z" fill="#6D6D6D" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
